@@ -1,2 +1,2 @@
-# texteditor
-console text editor, study project
+# TextEditor
+Console text editor. Study project
